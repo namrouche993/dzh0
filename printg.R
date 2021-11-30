@@ -1,2 +1,2 @@
-g=rep(5,23)
+g=rep(5,13)
 print(g)
